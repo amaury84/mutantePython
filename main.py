@@ -1,8 +1,21 @@
 import mutante
 
 def main():
-    #dna1=["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
-    print("**Magneto**  ingresa la cadena de ADN  **Magneto**")
+    """
+    Archivo inicial, recibe por consola una cadena de texto como la siguiente
+    ["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
+    emplea dos funciones:
+       isAdn(dna) que verifica la sintaxis de la cadena
+       isMutant(dna) que verifica la condicion de mutante
+    """
+    
+    print("**Liga Magneto**  ************************  **Liga Magneto**")
+    print("**Liga Magneto**  ingresa la cadena de ADN  **Liga Magneto**")
+    print("**Liga Magneto**  ************************  **Liga Magneto**")
+    print("**Liga Magneto**                            **Liga Magneto**")
+    print("**Liga Magneto**  *********ejemplo********  **Liga Magneto**")
+    print("*                                                          *")
+    print(' ["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]    ')
     
     dna1 = input()
     #limpiamos el string antes de hacerlo lista
