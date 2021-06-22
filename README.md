@@ -25,7 +25,7 @@ git clone https://github.com/amaury84/mutantePython
 
 ## Ejecutando las pruebas ⚙️
 
-_Una vez clonado el proyecto, puedes ejecutar el script main.py el cual te pedirá por teclado la cadena ADN
+_Una vez clonado el proyecto, puedes ejecutar el script main.py el cual te pedirá por teclado la cadena ADN_
 
 ### Iniciando el script main.py para levantar la API de forma local 🔩
 ```
