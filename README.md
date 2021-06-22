@@ -1,6 +1,6 @@
 # mutantePython
 
-_Este programa de prueba ha sido desarrollada en **Python** para resolver un reto de clasificación de ADN mutante y no mutante =)
+_Este programa de prueba ha sido desarrollada en **Python** para resolver un reto de clasificación de ADN mutante y no mutante =)_
 
 
 Para usar esta servicio, envía la cadena ADN en formato texto. Ejemplo:
